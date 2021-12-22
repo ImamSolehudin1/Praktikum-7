@@ -8,17 +8,13 @@ Disini saya akan membuat langkah-langkah membuat program sederhana daftar nilai 
 
 ![Gambar](Screenshot/Langkah1.png)
 
-Hasil Program :
-
-![Gambar](Screenshot/Hasil1.png)
-
 3. Selanjutnya kita mulai ke tahap eksekusi, pertama kita buat program untuk menambahkan data. Kita perlu mengeksekusi constructor agar data yang kita buat bisa ditampilkan. Berikut Programnya :
 
 ![Gambar](Screenshot/Langkah2.png)
 
 Hasil Program :
 
-![Gambar](Screenshot/Hasil2.png)
+![Gambar](Screenshot/Hasil1.png)
 
 4. Berikutnya kita buat program untuk melihat data, untuk melihat data kita perlu memanggil constructor yang telah kita buat. Berikut programnya :
 
@@ -26,7 +22,7 @@ Hasil Program :
 
 Hasil Program :
 
-![Gambar](Screenshot/Hasil3.png)
+![Gambar](Screenshot/Hasil2.png)
 
 5. Langkah ke-5 kita buat program untuk mengubah data yang telah kita buat, untuk mengubah data kita eksekusi constructor yang kita buat tadi dan masukan nama yang akan kita ubah. Berikut programnya :
 
@@ -34,7 +30,7 @@ Hasil Program :
 
 Hasil Program :
 
-![Gambar](Screenshot/Hasil4.png)
+![Gambar](Screenshot/Hasil3.png)
 
 6. Berikutnya menghapus data. Untuk menghapus data programnya hampir sama seperti mengubah data, bedanya ketika menghapus data kita tidak perlu memasukan data kembali hanya perlu memasukan data yang akan kita hapus. Berikut programnya :
 
@@ -42,4 +38,4 @@ Hasil Program :
 
 Hasil Program :
 
-![Gambar](Screenshot/Hasil5.png)
+![Gambar](Screenshot/Hasil4.png)
