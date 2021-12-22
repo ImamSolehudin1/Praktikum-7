@@ -14,7 +14,7 @@ Disini saya akan membuat langkah-langkah membuat program sederhana daftar nilai 
 
 Hasil Program :
 
-![Gambar](Screenshot/Hasil1.png)
+![Gambar](Screenshot/Hasil2.png)
 
 4. Berikutnya kita buat program untuk melihat data, untuk melihat data kita perlu memanggil constructor yang telah kita buat. Berikut programnya :
 
@@ -22,7 +22,7 @@ Hasil Program :
 
 Hasil Program :
 
-![Gambar](Screenshot/Hasil2.png)
+![Gambar](Screenshot/Hasil1.png)
 
 5. Langkah ke-5 kita buat program untuk mengubah data yang telah kita buat, untuk mengubah data kita eksekusi constructor yang kita buat tadi dan masukan nama yang akan kita ubah. Berikut programnya :
 
